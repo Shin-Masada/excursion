@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+}
+
+#download {
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px; 
+}
+
+.center {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana;
+}
+
+.big {
+    font-size: 42px;
+    font-family: Verdana;
+    font-weight: 300;
+}
+
+img {
+    margin-top: 24px;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
